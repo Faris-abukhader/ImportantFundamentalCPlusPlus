@@ -1,0 +1,57 @@
+# ImportantFundamentalCPlusPlus
+
+
+Basic C++ Data Structure And Algorithms Cheat Sheet [for beginners]
+
+Hello guys , here is my summarization for Basic C++ Data Structure And Algorithms (very useful for students) in one file . 
+
+
+Content List :
+
+* IsSubString (line 8)
+* PrintPascalTriangle (line 15)
+* EnterElementsToSortedArray (line 29)
+* GiveFibonacciNumUntil (line 41)
+* Fibonacci (line 51)
+* IsPrimeNumber (line 58)
+* IsPerfectNumber (line 63)
+* GCM (line 69)
+* GCMwithForLoop (line 73)
+* LCM (line 81)
+* IsArmStrong (line 85)
+* getTheInverseOf (line 99)
+* PowerRecursion (line 108)
+* MySwapUsingPointer (line 113)
+* SwapUsingLocation (line 116)
+* DeleteNumberElement (line 119)
+* IsPalindrome (line 129)
+* IsPalindromeWithPointer (line 133)
+* FindTheMaxValueInTheMatrix (line 149)
+* copyStr (line 163)
+* copyStrWithPointer (line 170)
+* DeleteCharFromString (line 174)
+* CopyFromToStartFromIndexI (line 183)
+* stringCatenate (line 208)
+* RepeateTheNumManyTime (line 217)
+* NewtonIterationMethod (line 228)
+* IsEven (line 237)
+* NextPrime (line 241)
+* GoldBach (line 244)
+* LegendrePolynomial (line 247)
+* TowerOfHanoi (line 252)
+* Tostring (line 265)
+* factorial (line 278)
+* BinarySearch (line 282)
+* BubbleSort (line 292)
+* selectSort (line 302)
+* QuickSort (line 316)
+* hashTable (line 368)
+* heapSort  (line 393)
+* mergeSort (line 429)
+* bucketSort (line 436)
+* ConvertFromdecimalToHexdecimal (line 478)
+* MultiplyMatrix (line 494)
+* reverseString (line 514)
+* ToCamelCase (line 529)
+* checkStrContext (line 546)
+* GenterateBigInt (line 568)
